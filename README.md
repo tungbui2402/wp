@@ -1,4 +1,4 @@
-# wp
+# WordPress
 ## I. Wordpress
 ### 1. Khái niệm
 WordPress (WP, WordPress.org) là một hệ quản trị nội dung mã nguồn mở miễn phí viết bằng ngôn ngữ lập trình PHP đi cùng với cơ sở dữ liệu MySQL hoặc MariaDB. Thành phần chính bao gồm một kiến trúc plugin và một hệ thống template (được gọi là theme trong Wordpress). WordPress ban đầu được tạo ra như một hệ thống xuất bản blog nhưng sau đó đã phát triển thêm để hỗ trợ các nội dung web khác bao gồm danh sách gửi thư truyền thống, diễn đàn trực tuyến, phòng trưng bày phim ảnh, trang quản lý hội viên, hệ quản trị đào tạo (LMS) và cửa hàng trực tuyến. Thống kê tháng 10 năm 2021 cho thấy trong 10 triệu website hàng đầu có 42,8% sử dụng WordPress. WordPress là một trong những giải pháp hệ quản trị nội dung thông dụng nhất hiện nay. WordPress cũng được dùng cho các lĩnh vực ứng dụng khác như Bảng hiệu điện tử (PDS).
