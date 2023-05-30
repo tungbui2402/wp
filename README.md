@@ -129,12 +129,12 @@ status;
 exit
 ```
 #### 3.2. Trên máy web:
-B1: Cài đặt nginx và php:
+- B1: Cài đặt nginx và php:
 ```
 sudo apt-get update
 sudo apt-get install -y nginx mysql-server php7.4 php7.4-gd php7.4-mysql php7.4-zip php7.4-fpm
 ```
-B2: Đăng nhập vào mysql bằng tài khoản trên:
+- B2: Đăng nhập vào mysql bằng tài khoản trên:
 ```
 mysql -u wpuser -h ipdb -p
 status;
